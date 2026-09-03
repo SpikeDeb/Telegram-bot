@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, F, types
 from aiogram.filters import CommandStart
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-BOT_TOKEN = "8907533487:AAFcPAxB7hqiyf5MNfyK9PbTGkX1n0lv30g"
+BOT_TOKEN = "8691147645:AAEzGq3XMQwu_QRr38z-gYzOCwKEkMrib-s"
 PAYMENT_LINK = "https://pages.razorpay.com/pl_TXat4m9nT97OpF"
 SERVICE_ACCESS_LINK = "https://t.me/+2fSZq6QcsdJiOGY1"
 
